@@ -28,28 +28,6 @@ jobs:
           experimental_features: --optimize-svg
           output_condition: data-changed
 
-  followers:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙ update metrics [skip ci]"
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
-          commits_authoring: ${{ secrets.USER_IDENTITIES }}
-          filename: images/followers.svg
-          user: cjw6k
-          template: classic
-          base: ""
-          plugin_people: yes
-          plugin_people_types: followers
-          optimize: svg
-          experimental_features: --optimize-svg
-          output_condition: data-changed
-
   calendar-languages:
     runs-on: ubuntu-latest
     permissions:
@@ -100,7 +78,7 @@ jobs:
           experimental_features: --optimize-svg
           output_condition: data-changed
 
-  achievements:
+  achievements-followers:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -112,12 +90,15 @@ jobs:
           committer_message: "⚙ update metrics [skip ci]"
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           commits_authoring: ${{ secrets.USER_IDENTITIES }}
-          filename: images/achievements.svg
+          filename: images/achievements-followers.svg
           user: cjw6k
           template: classic
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
+          plugin_people: yes
+          plugin_people_types: followers
+          config_order: achievements, followers
           optimize: svg
           experimental_features: --optimize-svg
           output_condition: data-changed
