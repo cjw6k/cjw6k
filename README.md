@@ -1,44 +1,44 @@
 <p align="center">
   <a href="https://github.com/cjw6k/">
-    <img src="./images/cjw6k.svg">
+    <img src="./images/cjw6k.svg" width="420px">
   </a>
   <a href="https://github.com/cjw6k?tab=followers">
-    <img align="bottom" src="./images/followers.svg">
+    <img align="bottom" src="./images/followers.svg" width="420px">
   </a>
 </p>
 <hr>
 <p align="center">
   <a href="https://github.com/cjw6k?tab=repositories">
-    <img align="top" src="./images/repositories.svg">
+    <img align="top" src="./images/repositories.svg" width="420px">
   </a>
   <a href="https://github.com/search?q=author:cjw6k">
-    <img align="top" src="./images/activity-community.svg">
+    <img align="top" src="./images/activity-community.svg" width="420px">
   </a>
 </p>
 <hr>
 <p align="center">
   <a href="https://github.com/search?q=author:cjw6k">
-    <img align="top" src="./images/calendar-languages.svg">
+    <img align="top" src="./images/calendar-languages.svg" width="420px">
   </a>
   <a href="https://github.com/search?q=author:cjw6k">
-    <img align="top" src="./images/followup.svg">
+    <img align="top" src="./images/followup.svg" width="420px">
   </a>
 </p>
 <hr>
 <p align="center">
   <a href="https://github.com/cjw6k/">
-    <img align="top" src="./images/habits.svg">
+    <img align="top" src="./images/habits.svg" width="420px">
   </a>
   <a href="https://github.com/cjw6k/?tab=achievements">
-    <img align="top" src="./images/achievements.svg">
+    <img align="top" src="./images/achievements.svg" width="420px">
   </a>
 </p>
 <hr>
 <p align="center">
   <a href="https://github.com/search?q=author:cjw6k">
-    <img align="top" src="./images/recent.svg">
+    <img align="top" src="./images/recent.svg" width="420px">
   </a>
   <a href="https://github.com/cjw6k?tab=stars">
-    <img align="top" src="./images/stars.svg">
+    <img align="top" src="./images/stars.svg" width="420px">
   </a>
 </p>
