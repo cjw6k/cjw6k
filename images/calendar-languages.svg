@@ -2591,7 +2591,7 @@
         
           <small>
             
-              estimation from 376kb of code in 193 edited files across 88 commits
+              estimation from 378kb of code in 198 edited files across 89 commits
             
           </small>
         
@@ -2602,19 +2602,19 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="23.65141612200436" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="24.432958346001822" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="23.65141612200436" y="0" width="6.245284021467666" height="8" fill="#ededed"/>
+              <rect mask="url(#languages-bar)" x="24.432958346001822" y="0" width="6.314381270903009" height="8" fill="#3d8137"/>
             
-              <rect mask="url(#languages-bar)" x="29.896700143472028" y="0" width="5.72586216058239" height="8" fill="#3d8137"/>
+              <rect mask="url(#languages-bar)" x="30.74733961690483" y="0" width="6.27059896625114" height="8" fill="#ededed"/>
             
-              <rect mask="url(#languages-bar)" x="35.62256230405441" y="0" width="5.552314150592487" height="8" fill="#ededed"/>
+              <rect mask="url(#languages-bar)" x="37.017938583155974" y="0" width="5.525083612040134" height="8" fill="#ededed"/>
             
-              <rect mask="url(#languages-bar)" x="41.174876454646906" y="0" width="1.889473404537967" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="42.54302219519611" y="0" width="1.8802067497719672" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="43.06434985918487" y="0" width="0.4693129284234019" height="8" fill="#ededed"/>
+              <rect mask="url(#languages-bar)" x="44.42322894496807" y="0" width="0.4670112496199453" height="8" fill="#ededed"/>
             
-              <rect mask="url(#languages-bar)" x="43.53366278760827" y="0" width="416.46633721239175" height="8" fill="#ededed"/>
+              <rect mask="url(#languages-bar)" x="44.890240194588024" y="0" width="415.109759805412" height="8" fill="#ededed"/>
             
           </svg>
         
@@ -2627,13 +2627,13 @@
               </div>
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                JSON
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3d8137" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                Nunjucks
               </div>
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3d8137" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                Nunjucks
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                JSON
               </div>
             
               <div class="field center no-wrap language">
