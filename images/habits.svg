@@ -1764,11 +1764,11 @@
             <h3>Language activity</h3>
             
               <div class="margin-bottom">
-                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#012456" d="M0.5,-79.998A80,80,0,0,1,7.216,-79.674L0,0Z"><title>PowerShell
-0.14</title></path><path fill="#f1e05a" d="M8.211,-79.577A80,80,0,1,1,-78.999,-12.619L0,0Z"><title>JavaScript
-7.94</title></path><path fill="#384d54" d="M-78.835,-13.605A80,80,0,0,1,-67.983,-42.17L0,0Z"><title>Dockerfile
-0.64</title></path><path fill="#3d8137" d="M-67.45,-43.017A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>Nunjucks
-1.66</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(1.9306483321404269,-39.953380295259166)"><tspan x="0" y="0em" font-weight="bold">PowerShell</tspan></text><text transform="translate(24.359692101979036,31.727045256323194)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">7.94</tspan></text><text transform="translate(-37.39261884434533,-14.205353074158726)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan><tspan x="0" y="1.1em">0.64</tspan></text><text transform="translate(-19.340556050694758,-35.013467289743446)"><tspan x="0" y="0em" font-weight="bold">Nunjucks</tspan><tspan x="0" y="1.1em">1.66</tspan></text></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#012456" d="M0.5,-79.998A80,80,0,0,1,7.222,-79.673L0,0Z"><title>PowerShell
+0.14</title></path><path fill="#f1e05a" d="M8.218,-79.577A80,80,0,1,1,-79.015,-12.514L0,0Z"><title>JavaScript
+7.93</title></path><path fill="#384d54" d="M-78.853,-13.5A80,80,0,0,1,-68.023,-42.105L0,0Z"><title>Dockerfile
+0.64</title></path><path fill="#3d8137" d="M-67.492,-42.952A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>Nunjucks
+1.66</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(1.9322678475030437,-39.95330200328261)"><tspan x="0" y="0em" font-weight="bold">PowerShell</tspan></text><text transform="translate(24.379529422129394,31.711804508030244)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">7.93</tspan></text><text transform="translate(-37.408881639433645,-14.162470634986121)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan><tspan x="0" y="1.1em">0.64</tspan></text><text transform="translate(-19.357382383325728,-35.00416756995816)"><tspan x="0" y="0em" font-weight="bold">Nunjucks</tspan><tspan x="0" y="1.1em">1.66</tspan></text></g></svg>
               </div>
             
           </section>
