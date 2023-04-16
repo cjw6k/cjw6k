@@ -2664,7 +2664,7 @@
         
           <small>
             
-              estimation from 436kb of code in 395 edited files across 225 commits
+              estimation from 439kb of code in 408 edited files across 231 commits
             
           </small>
         
@@ -2675,21 +2675,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="25.18711819082966" height="8" fill="#ededed"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="25.252905717958058" height="8" fill="#ededed"/>
             
-              <rect mask="url(#languages-bar)" x="25.18711819082966" y="0" width="22.14371009013578" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="25.252905717958058" y="0" width="22.007895213154715" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="47.33082828096544" y="0" width="5.505705525715208" height="8" fill="#3d8137"/>
+              <rect mask="url(#languages-bar)" x="47.26080093111277" y="0" width="7.216169836436661" height="8" fill="#89e051"/>
             
-              <rect mask="url(#languages-bar)" x="52.83653380668065" y="0" width="5.503584683833191" height="8" fill="#ededed"/>
+              <rect mask="url(#languages-bar)" x="54.476970767549425" y="0" width="5.471937168216613" height="8" fill="#3d8137"/>
             
-              <rect mask="url(#languages-bar)" x="58.34011849051384" y="0" width="5.251204499873211" height="8" fill="#89e051"/>
+              <rect mask="url(#languages-bar)" x="59.94890793576604" y="0" width="5.469829334176467" height="8" fill="#ededed"/>
             
-              <rect mask="url(#languages-bar)" x="63.59132299038704" y="0" width="2.262938288111759" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="65.4187372699425" y="0" width="2.249058920834794" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="65.85426127849881" y="0" width="0.4072016413471956" height="8" fill="#ededed"/>
+              <rect mask="url(#languages-bar)" x="67.6677961907773" y="0" width="0.40470413570785424" height="8" fill="#ededed"/>
             
-              <rect mask="url(#languages-bar)" x="66.26146291984601" y="0" width="393.73853708015395" height="8" fill="#ededed"/>
+              <rect mask="url(#languages-bar)" x="68.07250032648516" y="0" width="391.92749967351483" height="8" fill="#ededed"/>
             
           </svg>
         
@@ -2707,6 +2707,11 @@
               </div>
             
               <div class="field center no-wrap language">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                Shell
+              </div>
+            
+              <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3d8137" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Nunjucks
               </div>
@@ -2714,11 +2719,6 @@
               <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 YAML
-              </div>
-            
-              <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                Shell
               </div>
             
               <div class="field center no-wrap language">
