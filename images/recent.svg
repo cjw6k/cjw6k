@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1288" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1089" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1750,6 +1750,302 @@
             <div class="row fill-width">
               <section class="activity">
                 
+                  <div class="field">
+                    
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/></svg>
+                    
+                    <div class="content">
+                      Deleted
+                      branch  <span class="code">ci-freebsd</span> in  <span class="repo">cjw6k/dotfiles</span>
+                    </div>
+                  </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 11 commits in <span class="repo">cjw6k/dotfiles</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#b044d34</div>
+                        <div class="message">Merge pull request #22 from cjw6k/ci-freebsd
+
+FreeBSD</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#8c04317</div>
+                        <div class="message">fixup</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#27bb346</div>
+                        <div class="message">ci: freebsd: confirm installed utils</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#bf01185</div>
+                        <div class="message">freebsd utils</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#0f69e2e</div>
+                        <div class="message">fixup</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#b343212</div>
+                        <div class="message">test</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#9fdf128</div>
+                        <div class="message">ci: gentoo: keep built binaries from cancelled runs</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#4d56294</div>
+                        <div class="message">fixup</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#831e462</div>
+                        <div class="message">shorten matrix for now</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#8f1508a</div>
+                        <div class="message">fixup</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#a471977</div>
+                        <div class="message">freebsd in a vm in macos-12</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">cjw6k/dotfiles</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">ci-freebsd</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#8c04317</div>
+                        <div class="message">fixup</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">cjw6k/dotfiles</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">ci-freebsd</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#27bb346</div>
+                        <div class="message">ci: freebsd: confirm installed utils</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">cjw6k/dotfiles</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">ci-freebsd</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#bf01185</div>
+                        <div class="message">freebsd utils</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">cjw6k/dotfiles</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">ci-freebsd</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#331d338</div>
+                        <div class="message">freebsd utils</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">cjw6k/dotfiles</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">ci-freebsd</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#7137c13</div>
+                        <div class="message">freebsd utils</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
                 
                 
                 
@@ -2009,355 +2305,6 @@
                 
                 
                 
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 37 commits in <span class="repo">cjw6k/dotfiles</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">main</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#109c3bc</div>
-                        <div class="message">fixup</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#20bef13</div>
-                        <div class="message">test</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#db9b340</div>
-                        <div class="message">fixup</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#76e5532</div>
-                        <div class="message">caching binaries</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#8a76832</div>
-                        <div class="message">fixup</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#3464598</div>
-                        <div class="message">enable buildpkgs</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#0a13ea1</div>
-                        <div class="message">gentoo: 1password cli util</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#1cf567b</div>
-                        <div class="message">tmp: check march=native</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#03525a6</div>
-                        <div class="message">Revert "ci: tmp: disable chezmoi init"
-
-This reverts commit 6fa57c425eb6e5678292de48c35eb269324f960d.</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#b3e8d50</div>
-                        <div class="message">gentoo: skip git build for now</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#115ad1c</div>
-                        <div class="message">ci: gentoo: do not sync portage</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#9a87d89</div>
-                        <div class="message">gentoo: fix util definitions</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#6fa57c4</div>
-                        <div class="message">ci: tmp: disable chezmoi init</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#791e6bd</div>
-                        <div class="message">ci: gentoo: fix volume mount</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#a4d8291</div>
-                        <div class="message">hmm</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#742400e</div>
-                        <div class="message">going to need that bit</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#272a49a</div>
-                        <div class="message">maybe this</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#90ce859</div>
-                        <div class="message">fixup</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#d510818</div>
-                        <div class="message">fixup</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#0952f49</div>
-                        <div class="message">add gentoo support</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
-                    <div class="content">
-                      Merged <span class="issue">#21 Gentoo</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    <div> in <span class="repo">cjw6k/dotfiles</span></div>
-                    <div>5 files changed <span class="code">++143 --2</span></div>
-                  </div>
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 2 commits in <span class="repo">cjw6k/dotfiles</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">ci-gentoo</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#e351dca</div>
-                        <div class="message">Revert "gentoo: skip git build for now"
-
-This reverts commit b3e8d501d30039af702f86b3e44883614fe27362.</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#b0e27e1</div>
-                        <div class="message">always collect binpkgs hash</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">cjw6k/dotfiles</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">ci-gentoo</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#c45cb48</div>
-                        <div class="message">okay go!</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">cjw6k/dotfiles</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">ci-gentoo</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#5388a32</div>
-                        <div class="message">test</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">cjw6k/dotfiles</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">ci-gentoo</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#670bf91</div>
-                        <div class="message">test</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">cjw6k/dotfiles</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">ci-gentoo</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#6a0c4af</div>
-                        <div class="message">maybe</div>
-                      </div>
-                    
-                  </div>
                 
                 
                 
