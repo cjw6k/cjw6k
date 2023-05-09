@@ -1764,10 +1764,10 @@
             <h3>Language activity</h3>
             
               <div class="margin-bottom">
-                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#384d54" d="M0.5,-79.998A80,80,0,0,1,35.643,-71.621L0,0Z"><title>Dockerfile
-0.45</title></path><path fill="#89e051" d="M36.535,-71.17A80,80,0,1,1,-24.58,-76.13L0,0Z"><title>Shell
-5.43</title></path><path fill="#012456" d="M-23.627,-76.431A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>PowerShell
-0.29</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(9.275203257573018,-38.909775179647426)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan><tspan x="0" y="1.1em">0.45</tspan></text><text transform="translate(-3.235713989430616,39.86891213688433)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan><tspan x="0" y="1.1em">5.43</tspan></text><text transform="translate(-6.09728399633842,-39.532557820965685)"><tspan x="0" y="0em" font-weight="bold">PowerShell</tspan><tspan x="0" y="1.1em">0.29</tspan></text></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#384d54" d="M0.5,-79.998A80,80,0,0,1,35.39,-71.747L0,0Z"><title>Dockerfile
+0.44</title></path><path fill="#89e051" d="M36.284,-71.299A80,80,0,1,1,-24.911,-76.023L0,0Z"><title>Shell
+5.35</title></path><path fill="#012456" d="M-23.959,-76.328A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>PowerShell
+0.29</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(9.206520605207936,-38.92608352179656)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan><tspan x="0" y="1.1em">0.44</tspan></text><text transform="translate(-3.078704771449213,39.88134372021905)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan><tspan x="0" y="1.1em">5.35</tspan></text><text transform="translate(-6.183162341279791,-39.51921688826057)"><tspan x="0" y="0em" font-weight="bold">PowerShell</tspan><tspan x="0" y="1.1em">0.29</tspan></text></g></svg>
               </div>
             
           </section>
