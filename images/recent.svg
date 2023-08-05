@@ -1756,6 +1756,175 @@
                     
                     <div class="content">
                       Deleted
+                      branch  <span class="code">dependabot/composer/vendor-bin/phpstan/phpstan/phpstan-1.10.27</span> in  <span class="repo">cjw6k/php-static-analyzer-comparison</span>
+                    </div>
+                  </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 2 commits in <span class="repo">cjw6k/php-static-analyzer-comparison</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#65eeaee</div>
+                        <div class="message">Merge pull request #83 from cjw6k/dependabot/composer/vendor-bin/phpstan/phpstan/phpstan-1.10.27
+
+⚙ Bump phpstan/phpstan from 1.10.26 to 1.10.27 in /vendor-bin/phpstan</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#4d14afc</div>
+                        <div class="message">⚙ Bump phpstan/phpstan from 1.10.26 to 1.10.27 in /vendor-bin/phpstan
+
+Bumps [phpstan/phpstan](https://github.com/phpstan/phpstan) from 1.10.26 to 1.10.27.
+- [Release notes](https://github.com/phpstan/phpstan/releases)
+- [Changelog](https://github.com/phpstan/phpstan/blob/1.11.x/CHANGELOG.md)
+- [Commits](https://github.com/phpstan/phpstan/compare/1.10.26...1.10.27)
+
+---
+updated-dependencies:
+- dependency-name: phpstan/phpstan
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                  <div class="field">
+                    
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/></svg>
+                    
+                    <div class="content">
+                      Deleted
+                      branch  <span class="code">dependabot/composer/vendor-bin/psalm/vimeo/psalm-5.14.1</span> in  <span class="repo">cjw6k/php-static-analyzer-comparison</span>
+                    </div>
+                  </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 2 commits in <span class="repo">cjw6k/php-static-analyzer-comparison</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#17af138</div>
+                        <div class="message">Merge pull request #82 from cjw6k/dependabot/composer/vendor-bin/psalm/vimeo/psalm-5.14.1
+
+⚙ Bump vimeo/psalm from 5.13.1 to 5.14.1 in /vendor-bin/psalm</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#cc22abe</div>
+                        <div class="message">⚙ Bump vimeo/psalm from 5.13.1 to 5.14.1 in /vendor-bin/psalm
+
+Bumps [vimeo/psalm](https://github.com/vimeo/psalm) from 5.13.1 to 5.14.1.
+- [Release notes](https://github.com/vimeo/psalm/releases)
+- [Commits](https://github.com/vimeo/psalm/compare/5.13.1...5.14.1)
+
+---
+updated-dependencies:
+- dependency-name: vimeo/psalm
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                  <div class="field">
+                    
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/></svg>
+                    
+                    <div class="content">
+                      Deleted
                       branch  <span class="code">dependabot/docker/alpine-82d1e9d</span> in  <span class="repo">cjw6k/css-theme-previews</span>
                     </div>
                   </div>
@@ -2174,172 +2343,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                     <div class="content">
                       Deleted
                       branch  <span class="code">dependabot/npm_and_yarn/holiday.css-0.11.2</span> in  <span class="repo">cjw6k/css-theme-previews</span>
-                    </div>
-                  </div>
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 2 commits in <span class="repo">cjw6k/css-theme-previews</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">main</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#9f46a04</div>
-                        <div class="message">Merge pull request #21 from cjw6k/dependabot/npm_and_yarn/holiday.css-0.11.2
-
-⚙ Bump holiday.css from 0.11.1 to 0.11.2</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#c36672e</div>
-                        <div class="message">⚙ Bump holiday.css from 0.11.1 to 0.11.2
-
-Bumps holiday.css from 0.11.1 to 0.11.2.
-
----
-updated-dependencies:
-- dependency-name: holiday.css
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                  <div class="field">
-                    
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/></svg>
-                    
-                    <div class="content">
-                      Deleted
-                      branch  <span class="code">dependabot/npm_and_yarn/stylelint-15.10.1</span> in  <span class="repo">cjw6k/css-theme-previews</span>
-                    </div>
-                  </div>
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 2 commits in <span class="repo">cjw6k/css-theme-previews</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">main</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#980a79c</div>
-                        <div class="message">Merge pull request #22 from cjw6k/dependabot/npm_and_yarn/stylelint-15.10.1
-
-⚙ Bump stylelint from 15.3.0 to 15.10.1</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#36bf35a</div>
-                        <div class="message">⚙ Bump stylelint from 15.3.0 to 15.10.1
-
-Bumps [stylelint](https://github.com/stylelint/stylelint) from 15.3.0 to 15.10.1.
-- [Release notes](https://github.com/stylelint/stylelint/releases)
-- [Changelog](https://github.com/stylelint/stylelint/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/stylelint/stylelint/compare/15.3.0...15.10.1)
-
----
-updated-dependencies:
-- dependency-name: stylelint
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                  <div class="field">
-                    
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/></svg>
-                    
-                    <div class="content">
-                      Deleted
-                      branch  <span class="code">dependabot/npm_and_yarn/mvp.css-1.14.0</span> in  <span class="repo">cjw6k/css-theme-previews</span>
                     </div>
                   </div>
                 
