@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="726" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="871" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1756,6 +1756,340 @@
                     
                     <div class="content">
                       Deleted
+                      branch  <span class="code">dependabot/docker/alpine-3.18.3</span> in  <span class="repo">cjw6k/css-theme-previews</span>
+                    </div>
+                  </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 2 commits in <span class="repo">cjw6k/css-theme-previews</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#d092c2e</div>
+                        <div class="message">Merge pull request #31 from cjw6k/dependabot/docker/alpine-3.18.3
+
+⚙ Bump alpine from 3.18.2 to 3.18.3</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#d84e511</div>
+                        <div class="message">⚙ Bump alpine from 3.18.2 to 3.18.3
+
+Bumps alpine from 3.18.2 to 3.18.3.
+
+---
+updated-dependencies:
+- dependency-name: alpine
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                  <div class="field">
+                    
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/></svg>
+                    
+                    <div class="content">
+                      Deleted
+                      branch  <span class="code">dependabot/composer/vendor-bin/phpstan/phpstan/phpstan-1.10.28</span> in  <span class="repo">cjw6k/php-static-analyzer-comparison</span>
+                    </div>
+                  </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 2 commits in <span class="repo">cjw6k/php-static-analyzer-comparison</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#dc32636</div>
+                        <div class="message">Merge pull request #84 from cjw6k/dependabot/composer/vendor-bin/phpstan/phpstan/phpstan-1.10.28
+
+⚙ Bump phpstan/phpstan from 1.10.27 to 1.10.28 in /vendor-bin/phpstan</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#6d510df</div>
+                        <div class="message">⚙ Bump phpstan/phpstan from 1.10.27 to 1.10.28 in /vendor-bin/phpstan
+
+Bumps [phpstan/phpstan](https://github.com/phpstan/phpstan) from 1.10.27 to 1.10.28.
+- [Release notes](https://github.com/phpstan/phpstan/releases)
+- [Changelog](https://github.com/phpstan/phpstan/blob/1.11.x/CHANGELOG.md)
+- [Commits](https://github.com/phpstan/phpstan/compare/1.10.27...1.10.28)
+
+---
+updated-dependencies:
+- dependency-name: phpstan/phpstan
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                  <div class="field">
+                    
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/></svg>
+                    
+                    <div class="content">
+                      Deleted
+                      branch  <span class="code">dependabot/composer/ergebnis/composer-normalize-2.35.0</span> in  <span class="repo">cjw6k/php-static-analyzer-comparison</span>
+                    </div>
+                  </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 2 commits in <span class="repo">cjw6k/php-static-analyzer-comparison</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#4b01965</div>
+                        <div class="message">Merge pull request #86 from cjw6k/dependabot/composer/ergebnis/composer-normalize-2.35.0
+
+⚙ Bump ergebnis/composer-normalize from 2.34.0 to 2.35.0</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#af2cac6</div>
+                        <div class="message">⚙ Bump ergebnis/composer-normalize from 2.34.0 to 2.35.0
+
+Bumps [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) from 2.34.0 to 2.35.0.
+- [Release notes](https://github.com/ergebnis/composer-normalize/releases)
+- [Changelog](https://github.com/ergebnis/composer-normalize/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/ergebnis/composer-normalize/compare/2.34.0...2.35.0)
+
+---
+updated-dependencies:
+- dependency-name: ergebnis/composer-normalize
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                  <div class="field">
+                    
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/></svg>
+                    
+                    <div class="content">
+                      Deleted
+                      branch  <span class="code">dependabot/docker/alpine-3.18.3</span> in  <span class="repo">cjw6k/php-static-analyzer-comparison</span>
+                    </div>
+                  </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 2 commits in <span class="repo">cjw6k/php-static-analyzer-comparison</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#3a3ae60</div>
+                        <div class="message">Merge pull request #85 from cjw6k/dependabot/docker/alpine-3.18.3
+
+⚙ Bump alpine from 3.18.2 to 3.18.3</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#e6780f4</div>
+                        <div class="message">⚙ Bump alpine from 3.18.2 to 3.18.3
+
+Bumps alpine from 3.18.2 to 3.18.3.
+
+---
+updated-dependencies:
+- dependency-name: alpine
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                  <div class="field">
+                    
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/></svg>
+                    
+                    <div class="content">
+                      Deleted
                       branch  <span class="code">dependabot/composer/vendor-bin/phpstan/phpstan/phpstan-1.10.27</span> in  <span class="repo">cjw6k/php-static-analyzer-comparison</span>
                     </div>
                   </div>
@@ -2018,228 +2352,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                 
                 
                 
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 2 commits in <span class="repo">cjw6k/php-static-analyzer-comparison</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">main</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#0d7d91a</div>
-                        <div class="message">Merge pull request #81 from cjw6k/dependabot/composer/ergebnis/composer-normalize-2.34.0
-
-⚙ Bump ergebnis/composer-normalize from 2.33.0 to 2.34.0</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#213845d</div>
-                        <div class="message">⚙ Bump ergebnis/composer-normalize from 2.33.0 to 2.34.0
-
-Bumps [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) from 2.33.0 to 2.34.0.
-- [Release notes](https://github.com/ergebnis/composer-normalize/releases)
-- [Changelog](https://github.com/ergebnis/composer-normalize/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ergebnis/composer-normalize/compare/2.33.0...2.34.0)
-
----
-updated-dependencies:
-- dependency-name: ergebnis/composer-normalize
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                  <div class="field">
-                    
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/></svg>
-                    
-                    <div class="content">
-                      Deleted
-                      branch  <span class="code">dependabot/npm_and_yarn/xml2js-0.6.2</span> in  <span class="repo">cjw6k/php-static-analyzer-comparison</span>
-                    </div>
-                  </div>
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 2 commits in <span class="repo">cjw6k/php-static-analyzer-comparison</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">main</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#630c1b0</div>
-                        <div class="message">Merge pull request #79 from cjw6k/dependabot/npm_and_yarn/xml2js-0.6.2
-
-⚙ Bump xml2js from 0.6.0 to 0.6.2</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#06b92b3</div>
-                        <div class="message">⚙ Bump xml2js from 0.6.0 to 0.6.2
-
-Bumps [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) from 0.6.0 to 0.6.2.
-- [Commits](https://github.com/Leonidas-from-XIV/node-xml2js/compare/0.6.0...0.6.2)
-
----
-updated-dependencies:
-- dependency-name: xml2js
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                  <div class="field">
-                    
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/></svg>
-                    
-                    <div class="content">
-                      Deleted
-                      branch  <span class="code">dependabot/docker/alpine-82d1e9d</span> in  <span class="repo">cjw6k/php-static-analyzer-comparison</span>
-                    </div>
-                  </div>
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 2 commits in <span class="repo">cjw6k/php-static-analyzer-comparison</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">main</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#059e23a</div>
-                        <div class="message">Merge pull request #80 from cjw6k/dependabot/docker/alpine-82d1e9d
-
-⚙ Bump alpine from `25fad2a` to `82d1e9d`</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#918f888</div>
-                        <div class="message">⚙ Bump alpine from `25fad2a` to `82d1e9d`
-
-Bumps alpine from `25fad2a` to `82d1e9d`.
-
----
-updated-dependencies:
-- dependency-name: alpine
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                      </div>
-                    
-                  </div>
                 
                 
                 
