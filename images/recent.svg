@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="933" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="964" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1770,6 +1770,159 @@
                     
                     
                       <div class="commit">
+                        <div class="sha">#c00e8c1</div>
+                        <div class="message">request devtools in ci</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">cjw6k/dotfiles</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">development-tools</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#f080a10</div>
+                        <div class="message">skip devtools install unless requested</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">cjw6k/dotfiles</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">development-tools</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#8476ecd</div>
+                        <div class="message">add devtools config option</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 2 commits in <span class="repo">cjw6k/dotfiles</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">development-tools</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#1867eaf</div>
+                        <div class="message">Revert "overrideable data structure for chezmoi"
+
+This reverts commit 774cd2f09003d70f8b239ce28b3234864b1e84e9.</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#32f698f</div>
+                        <div class="message">Revert "fixup"
+
+This reverts commit 65d281714ab6ea1885178efb5c011b824c846ce6.</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">cjw6k/dotfiles</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">development-tools</span></div>
+                    
+                    
+                      <div class="commit">
                         <div class="sha">#65d2817</div>
                         <div class="message">fixup</div>
                       </div>
@@ -2184,163 +2337,6 @@ updated-dependencies:
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                  <div class="field">
-                    
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/></svg>
-                    
-                    <div class="content">
-                      Deleted
-                      branch  <span class="code">dependabot/npm_and_yarn/postcss-8.4.29</span> in  <span class="repo">cjw6k/php-static-analyzer-comparison</span>
-                    </div>
-                  </div>
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 2 commits in <span class="repo">cjw6k/php-static-analyzer-comparison</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">main</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#fd7352d</div>
-                        <div class="message">Merge pull request #94 from cjw6k/dependabot/npm_and_yarn/postcss-8.4.29
-
-⚙ Bump postcss from 8.4.28 to 8.4.29</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#c09be88</div>
-                        <div class="message">⚙ Bump postcss from 8.4.28 to 8.4.29
-
-Bumps [postcss](https://github.com/postcss/postcss) from 8.4.28 to 8.4.29.
-- [Release notes](https://github.com/postcss/postcss/releases)
-- [Changelog](https://github.com/postcss/postcss/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/postcss/postcss/compare/8.4.28...8.4.29)
-
----
-updated-dependencies:
-- dependency-name: postcss
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">cjw6k/dotfiles</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">development-tools</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#0e459e4</div>
-                        <div class="message">fix 7zip on debian trixie</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">cjw6k/dotfiles</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">development-tools</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#5e796e3</div>
-                        <div class="message">fix paths-filter</div>
                       </div>
                     
                   </div>
