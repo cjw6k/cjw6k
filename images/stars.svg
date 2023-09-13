@@ -894,7 +894,7 @@
     font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
     font-weight: bold;
     font-size: 12px;
-    white-space: pre;
+    white-space: nowrap;
   }
   .added {
     color: rgb(63, 185, 80);
@@ -1793,7 +1793,7 @@
                   
                   <div class="name">
                     <span>cytopia/devilbox</span>
-                    <span>starred 14 days ago</span>
+                    <span>starred 15 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
