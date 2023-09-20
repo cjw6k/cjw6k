@@ -1764,11 +1764,11 @@
             <h3>Language activity</h3>
             
               <div class="margin-bottom">
-                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#384d54" d="M0.5,-79.998A80,80,0,0,1,78.737,14.158L0,0Z"><title>Dockerfile
-1.23</title></path><path fill="#4F5D95" d="M78.554,15.141A80,80,0,1,1,-77.216,-20.92L0,0Z"><title>PHP
-2.27</title></path><path fill="#89e051" d="M-76.949,-21.884A80,80,0,0,1,-42.296,-67.905L0,0Z"><title>Shell
-0.52</title></path><path fill="#f1e05a" d="M-41.444,-68.428A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>JavaScript
-0.38</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(30.76521485922668,-25.563676470054496)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan><tspan x="0" y="1.1em">1.23</tspan></text><text transform="translate(-9.0214895880046,38.96938189930044)"><tspan x="0" y="0em" font-weight="bold">PHP</tspan><tspan x="0" y="1.1em">2.27</tspan></text><text transform="translate(-31.954340284561678,-24.06075927684824)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan><tspan x="0" y="1.1em">0.52</tspan></text><text transform="translate(-10.877670909242639,-38.49254831250091)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">0.38</tspan></text></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#384d54" d="M0.5,-79.998A80,80,0,0,1,78.729,14.205L0,0Z"><title>Dockerfile
+1.25</title></path><path fill="#4F5D95" d="M78.545,15.188A80,80,0,1,1,-77.089,-21.385L0,0Z"><title>PHP
+2.31</title></path><path fill="#89e051" d="M-76.816,-22.347A80,80,0,0,1,-41.722,-68.259L0,0Z"><title>Shell
+0.53</title></path><path fill="#f1e05a" d="M-40.866,-68.775A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>JavaScript
+0.38</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(30.772910026465908,-25.554412701195737)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan><tspan x="0" y="1.1em">1.25</tspan></text><text transform="translate(-9.150499279155534,38.93929073496555)"><tspan x="0" y="0em" font-weight="bold">PHP</tspan><tspan x="0" y="1.1em">2.31</tspan></text><text transform="translate(-31.77964986937714,-24.291024148433877)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan><tspan x="0" y="1.1em">0.53</tspan></text><text transform="translate(-10.715327212127765,-38.53805603214872)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">0.38</tspan></text></g></svg>
               </div>
             
           </section>
