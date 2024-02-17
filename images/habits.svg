@@ -1722,7 +1722,7 @@
             <li>Uses spaces for indentation</li>
           
           
-            <li>Has approximately 41.0 characters per line of code written</li>
+            <li>Has approximately 61.3 characters per line of code written</li>
           
           
             <li>Mostly pushes code around 09:00</li>
@@ -1764,12 +1764,8 @@
             <h3>Language activity</h3>
             
               <div class="margin-bottom">
-                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#3178c6" d="M0.5,-79.998A80,80,0,0,1,4.537,-79.871L0,0Z"><title>TypeScript
-0.05</title></path><path fill="#384d54" d="M5.535,-79.808A80,80,0,1,1,-12.68,78.989L0,0Z"><title>Dockerfile
-3.20</title></path><path fill="#89e051" d="M-13.667,78.824A80,80,0,0,1,-66.009,-45.197L0,0Z"><title>Shell
-1.98</title></path><path fill="#f1e05a" d="M-65.439,-46.018A80,80,0,0,1,-49.368,-62.951L0,0Z"><title>JavaScript
-0.29</title></path><path fill="#3d8137" d="M-48.577,-63.563A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>Nunjucks
-0.64</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(1.2596432223977931,-39.98016131723667)"><tspan x="0" y="0em" font-weight="bold">TypeScript</tspan></text><text transform="translate(39.7394110480517,4.558421827122465)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan><tspan x="0" y="1.1em">3.20</tspan></text><text transform="translate(-36.85226796734963,15.55346731962542)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan><tspan x="0" y="1.1em">1.98</tspan></text><text transform="translate(-29.012368156310483,-27.536929639353428)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">0.29</tspan></text><text transform="translate(-12.939107786522197,-37.849431827819565)"><tspan x="0" y="0em" font-weight="bold">Nunjucks</tspan><tspan x="0" y="1.1em">0.64</tspan></text></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#384d54" d="M0,-80A80,80,0,1,1,0,80A80,80,0,1,1,0,-80Z"><title>Dockerfile
+2.17</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(2.4492935982947065e-15,40)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan><tspan x="0" y="1.1em">2.17</tspan></text></g></svg>
               </div>
             
           </section>
