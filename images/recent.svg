@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1172" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1138" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1761,6 +1761,129 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
+                      Pushed 2 commits in <span class="repo">cjw6k/dotfiles</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">prune-standard-utils</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#73dbb0b</div>
+                        <div class="message">freebsd: fix shellcheck install</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#017d612</div>
+                        <div class="message">freebsd: fix actionlint install</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">cjw6k/dotfiles</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">prune-standard-utils</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#c029279</div>
+                        <div class="message">freebsd: fix silver search install</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 3 commits in <span class="repo">cjw6k/dotfiles</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">prune-standard-utils</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#f22b926</div>
+                        <div class="message">debug</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#87877f3</div>
+                        <div class="message">ci: fix util install script for gentoo</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#fc677c9</div>
+                        <div class="message">ci: fix installed util confirmation for gentoo</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
                       Pushed 4 commits in <span class="repo">cjw6k/dotfiles</span>
                     </div>
                   </div>
@@ -2193,141 +2316,6 @@
                       <div class="commit">
                         <div class="sha">#087f08c</div>
                         <div class="message">tmp: disable lua dev utils install</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 2 commits in <span class="repo">cjw6k/dotfiles</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">prune-standard-utils</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#5c12303</div>
-                        <div class="message">skip luarocks on ubuntu jammy and focal</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#ad8be8a</div>
-                        <div class="message">Revert "force TZ"
-
-This reverts commit a2cf2fca00b5d3c5c94d05bf09b2d7886d0735b3.</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 2 commits in <span class="repo">cjw6k/dotfiles</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">prune-standard-utils</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#a2cf2fc</div>
-                        <div class="message">force TZ</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#18692af</div>
-                        <div class="message">fix shfmt install</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 4 commits in <span class="repo">cjw6k/dotfiles</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">prune-standard-utils</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#c0a41e5</div>
-                        <div class="message">fix helm on gentoo</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#cf439e2</div>
-                        <div class="message">fix hyperfine for ubuntu and debian</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#50b2cde</div>
-                        <div class="message">fix kubectl for ubuntu</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#4e07c4c</div>
-                        <div class="message">fix tldr for ubuntu</div>
                       </div>
                     
                   </div>
