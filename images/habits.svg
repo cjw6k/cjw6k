@@ -1764,10 +1764,10 @@
             <h3>Language activity</h3>
             
               <div class="margin-bottom">
-                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#89e051" d="M0.5,-79.998A80,80,0,1,1,-32.28,-73.198L0,0Z"><title>Shell
-7.02</title></path><path fill="#012456" d="M-31.363,-73.596A80,80,0,0,1,-21.28,-77.118L0,0Z"><title>PowerShell
-0.16</title></path><path fill="#384d54" d="M-20.315,-77.378A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>Dockerfile
-0.30</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(8.124924349406742,39.16612827835319)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan><tspan x="0" y="1.1em">7.02</tspan></text><text transform="translate(-13.190204742087637,-37.76266011368649)"><tspan x="0" y="0em" font-weight="bold">PowerShell</tspan></text><text transform="translate(-5.244762357257139,-39.65466514567862)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan><tspan x="0" y="1.1em">0.30</tspan></text></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#89e051" d="M0.5,-79.998A80,80,0,1,1,-33.356,-72.714L0,0Z"><title>Shell
+6.89</title></path><path fill="#012456" d="M-32.445,-73.125A80,80,0,0,1,-22.248,-76.844L0,0Z"><title>PowerShell
+0.16</title></path><path fill="#384d54" d="M-21.286,-77.116A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>Dockerfile
+0.31</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(8.413519106693766,39.10514922924216)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan><tspan x="0" y="1.1em">6.89</tspan></text><text transform="translate(-13.704768232226485,-37.57897454296692)"><tspan x="0" y="0em" font-weight="bold">PowerShell</tspan></text><text transform="translate(-5.493889663654565,-39.620918418981525)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan><tspan x="0" y="1.1em">0.31</tspan></text></g></svg>
               </div>
             
           </section>
