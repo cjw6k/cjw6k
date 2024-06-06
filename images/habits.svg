@@ -1764,11 +1764,11 @@
             <h3>Language activity</h3>
             
               <div class="margin-bottom">
-                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#f1e05a" d="M0.5,-79.998A80,80,0,0,1,25.861,-75.705L0,0Z"><title>JavaScript
-0.53</title></path><path fill="#384d54" d="M26.806,-75.375A80,80,0,0,1,44.203,-66.679L0,0Z"><title>Dockerfile
-0.40</title></path><path fill="#89e051" d="M45.033,-66.121A80,80,0,1,1,-10.729,-79.277L0,0Z"><title>Shell
-9.11</title></path><path fill="#012456" d="M-9.737,-79.405A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>PowerShell
-0.19</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(6.677221516000008,-39.4387463394346)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">0.53</tspan></text><text transform="translate(17.88477622969105,-35.77897118719148)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan><tspan x="0" y="1.1em">0.40</tspan></text><text transform="translate(-9.185011870682652,38.93116434086475)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan><tspan x="0" y="1.1em">9.11</tspan></text><text transform="translate(-2.5635989415517537,-39.91776497334081)"><tspan x="0" y="0em" font-weight="bold">PowerShell</tspan></text></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#f1e05a" d="M0.5,-79.998A80,80,0,0,1,25.854,-75.707L0,0Z"><title>JavaScript
+0.52</title></path><path fill="#384d54" d="M26.798,-75.378A80,80,0,0,1,44.09,-66.754L0,0Z"><title>Dockerfile
+0.39</title></path><path fill="#89e051" d="M44.921,-66.198A80,80,0,1,1,-10.41,-79.32L0,0Z"><title>Shell
+8.95</title></path><path fill="#012456" d="M-9.418,-79.444A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>PowerShell
+0.18</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(6.675306750627808,-39.43907047313645)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">0.52</tspan></text><text transform="translate(17.852741751437105,-35.79496629355159)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan><tspan x="0" y="1.1em">0.39</tspan></text><text transform="translate(-9.230250269111952,38.92046351175123)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan><tspan x="0" y="1.1em">8.95</tspan></text><text transform="translate(-2.4834084966738703,-39.92283409577341)"><tspan x="0" y="0em" font-weight="bold">PowerShell</tspan></text></g></svg>
               </div>
             
           </section>
