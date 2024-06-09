@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1624" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1357" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1753,6 +1753,188 @@
                 
                 
                 
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 4 commits in <span class="repo">cjw6k/dotfiles</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#9b4803a</div>
+                        <div class="message">Merge pull request #84 from cjw6k/add-haskell-dev-utils
+
+Add Haskell Dev Utils</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#45d4aeb</div>
+                        <div class="message">utils/dev: haskell: freebsd: fix cabal install</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#167b0f2</div>
+                        <div class="message">utils/dev: haskell: fix cabal install</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#f66fa28</div>
+                        <div class="message">utils/dev: haskell: add ghc and cabal</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                  <div class="field">
+                    
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/></svg>
+                    
+                    <div class="content">
+                      Deleted
+                      branch  <span class="code">add-haskell-dev-utils</span> in  <span class="repo">cjw6k/dotfiles</span>
+                    </div>
+                  </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
+                    <div class="content">
+                      Merged <span class="issue">#84 Add Haskell Dev Utils</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    <div> in <span class="repo">cjw6k/dotfiles</span></div>
+                    <div>1 file changed <span class="code">++23 --0</span></div>
+                  </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">cjw6k/dotfiles</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">add-haskell-dev-utils</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#45d4aeb</div>
+                        <div class="message">utils/dev: haskell: freebsd: fix cabal install</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">cjw6k/dotfiles</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">add-haskell-dev-utils</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#167b0f2</div>
+                        <div class="message">utils/dev: haskell: fix cabal install</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
                     <div class="content">
@@ -2196,270 +2378,6 @@ updates:
                       </div>
                     
                   </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">cjw6k/dotfiles</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">stop-building-optimized-binaries-on-gentoo-in-ci</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#3088ce6</div>
-                        <div class="message">fix typo</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 199 commits in <span class="repo">cjw6k/dotfiles</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">stop-building-optimized-binaries-on-gentoo-in-ci</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#efe28b4</div>
-                        <div class="message">fixup</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#de34d47</div>
-                        <div class="message">fixup</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#297c87e</div>
-                        <div class="message">progress</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#84dcc15</div>
-                        <div class="message">more debug</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#24cb930</div>
-                        <div class="message">debug</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#0cc02b9</div>
-                        <div class="message">fix devtools script</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#cd64797</div>
-                        <div class="message">fixup better</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#3c49add</div>
-                        <div class="message">fixup</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#b728cbb</div>
-                        <div class="message">maybe this</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#2006854</div>
-                        <div class="message">hm</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#fcf0b76</div>
-                        <div class="message">alternative</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#85e2ca7</div>
-                        <div class="message">fixup</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#98686b7</div>
-                        <div class="message">use a scripting library</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#d8f2b14</div>
-                        <div class="message">replace custom installation method with script in utils json</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#f957744</div>
-                        <div class="message">package installation script updates</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#e5b95b0</div>
-                        <div class="message">selective ignore for dev- and personal- utils</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#4e50771</div>
-                        <div class="message">Revert "fixup"
-
-This reverts commit 91fad5f153837ee0e75356c5f6104745141ab64f.</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#91fad5f</div>
-                        <div class="message">fixup</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#6f4b666</div>
-                        <div class="message">refactoring utils json</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#5e406c3</div>
-                        <div class="message">remove jetbrains toolbox
-
-This works better as a non-portable installation. YMMV.</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">cjw6k/dotfiles</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">prune-standard-utils</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#367934f</div>
-                        <div class="message">gentoo: fix fish install script; use 3.7.1 (test)</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
-                    <div class="content">
-                      Opened <span class="issue">#83 Gentoo: install/build unoptimized binaries</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    <div> in <span class="repo">cjw6k/dotfiles</span></div>
-                    <div>1 file changed <span class="code">++4 --22</span></div>
-                  </div>
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                  <div class="field">
-                    
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/></svg>
-                    
-                    <div class="content">
-                      Created new
-                      branch  <span class="code">stop-building-optimized-binaries-on-gentoo-in-ci</span> in  <span class="repo">cjw6k/dotfiles</span>
-                    </div>
-                  </div>
-                
-                
-                
-                
-                
-                
-                
-                
                 
                 
                 
