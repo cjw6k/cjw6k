@@ -1764,10 +1764,9 @@
             <h3>Language activity</h3>
             
               <div class="margin-bottom">
-                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#89e051" d="M0.5,-79.998A80,80,0,1,1,-25.718,-75.753L0,0Z"><title>Shell
-8.24</title></path><path fill="#384d54" d="M-24.769,-76.069A80,80,0,0,1,-22.007,-76.913L0,0Z"><title>Dockerfile
-0.05</title></path><path fill="#f1e05a" d="M-21.044,-77.182A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>JavaScript
-0.36</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(6.393227438418117,39.48577772971754)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan><tspan x="0" y="1.1em">8.24</tspan></text><text transform="translate(-11.696060759186045,-38.25182561287014)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan></text><text transform="translate(-5.431885859317597,-39.62946651181852)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">0.36</tspan></text></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#89e051" d="M0.5,-79.998A80,80,0,1,1,-6.066,-79.77L0,0Z"><title>Shell
+6.51</title></path><path fill="#384d54" d="M-5.069,-79.839A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>Dockerfile
+0.06</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(1.3927659657,39.975745183358214)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan><tspan x="0" y="1.1em">6.51</tspan></text><text transform="translate(-1.3927659657000049,-39.975745183358214)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan></text></g></svg>
               </div>
             
           </section>
