@@ -1764,10 +1764,9 @@
             <h3>Language activity</h3>
             
               <div class="margin-bottom">
-                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#384d54" d="M0.5,-79.998A80,80,0,0,1,13.681,-78.822L0,0Z"><title>Dockerfile
-0.21</title></path><path fill="#89e051" d="M14.665,-78.644A80,80,0,1,1,-25.643,-75.779L0,0Z"><title>Shell
-7.32</title></path><path fill="#f1e05a" d="M-24.694,-76.093A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>JavaScript
-0.39</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(3.557399572763109,-39.841497314730844)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan></text><text transform="translate(2.836565044710209,39.89929697058744)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan><tspan x="0" y="1.1em">7.32</tspan></text><text transform="translate(-6.373768515214936,-39.48892344587853)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">0.39</tspan></text></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#384d54" d="M0.5,-79.998A80,80,0,0,1,18.998,-77.712L0,0Z"><title>Dockerfile
+0.30</title></path><path fill="#89e051" d="M19.968,-77.468A80,80,0,1,1,-0.5,-79.998L0,0Z"><title>Shell
+7.74</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(4.907888971141506,-39.697766005745805)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan></text><text transform="translate(-4.9078889711414835,39.69776600574581)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan><tspan x="0" y="1.1em">7.74</tspan></text></g></svg>
               </div>
             
           </section>
