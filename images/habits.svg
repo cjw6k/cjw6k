@@ -1722,7 +1722,7 @@
             <li>Uses spaces for indentation</li>
           
           
-            <li>Has approximately 33.1 characters per line of code written</li>
+            <li>Has approximately 33.0 characters per line of code written</li>
           
           
             <li>Mostly pushes code around 21:00</li>
@@ -1764,10 +1764,10 @@
             <h3>Language activity</h3>
             
               <div class="margin-bottom">
-                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#384d54" d="M0.5,-79.998A80,80,0,0,1,11.586,-79.157L0,0Z"><title>Dockerfile
-0.21</title></path><path fill="#89e051" d="M12.575,-79.006A80,80,0,1,1,-23.913,-76.343L0,0Z"><title>Shell
-8.79</title></path><path fill="#f1e05a" d="M-22.957,-76.635A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>JavaScript
-0.43</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(3.028845528436151,-39.88516133557532)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan></text><text transform="translate(2.9116342262359804,39.89388908257268)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan><tspan x="0" y="1.1em">8.79</tspan></text><text transform="translate(-5.92408571058209,-39.558882801384534)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">0.43</tspan></text></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#384d54" d="M0.5,-79.998A80,80,0,0,1,12.086,-79.082L0,0Z"><title>Dockerfile
+0.21</title></path><path fill="#89e051" d="M13.074,-78.924A80,80,0,1,1,-22.784,-76.687L0,0Z"><title>Shell
+8.42</title></path><path fill="#f1e05a" d="M-21.824,-76.966A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>JavaScript
+0.39</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(3.1549102370523645,-39.87538766452487)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan></text><text transform="translate(2.491121570320251,39.92235355439212)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan><tspan x="0" y="1.1em">8.42</tspan></text><text transform="translate(-5.632147006298873,-39.601501487941576)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">0.39</tspan></text></g></svg>
               </div>
             
           </section>
