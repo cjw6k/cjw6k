@@ -1764,10 +1764,10 @@
             <h3>Language activity</h3>
             
               <div class="margin-bottom">
-                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#384d54" d="M0.5,-79.998A80,80,0,0,1,12.541,-79.011L0,0Z"><title>Dockerfile
-0.22</title></path><path fill="#89e051" d="M13.528,-78.848A80,80,0,1,1,-15.689,-78.446L0,0Z"><title>Shell
-8.61</title></path><path fill="#f1e05a" d="M-14.707,-78.636A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>JavaScript
-0.26</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(3.2695622136126006,-39.86615059083729)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan></text><text transform="translate(0.5496579746720192,39.996223273090166)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan><tspan x="0" y="1.1em">8.61</tspan></text><text transform="translate(-3.817072197315931,-39.81745797813414)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan></text></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#384d54" d="M0.5,-79.998A80,80,0,0,1,12.099,-79.08L0,0Z"><title>Dockerfile
+0.21</title></path><path fill="#89e051" d="M13.087,-78.922A80,80,0,1,1,-22.807,-76.68L0,0Z"><title>Shell
+8.41</title></path><path fill="#f1e05a" d="M-21.847,-76.959A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>JavaScript
+0.39</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(3.15812790778466,-39.875132954236925)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan></text><text transform="translate(2.4938828250837703,39.92218115853331)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan><tspan x="0" y="1.1em">8.41</tspan></text><text transform="translate(-5.638081591972578,-39.60065701427516)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">0.39</tspan></text></g></svg>
               </div>
             
           </section>
