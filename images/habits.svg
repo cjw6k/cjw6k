@@ -1764,11 +1764,11 @@
             <h3>Language activity</h3>
             
               <div class="margin-bottom">
-                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#3d8137" d="M0.5,-79.998A80,80,0,0,1,24.074,-76.292L0,0Z"><title>Nunjucks
-0.22</title></path><path fill="#384d54" d="M25.026,-75.985A80,80,0,0,1,50.652,-61.922L0,0Z"><title>Dockerfile
-0.27</title></path><path fill="#89e051" d="M51.422,-61.284A80,80,0,1,1,-53.137,-59.803L0,0Z"><title>Shell
-3.57</title></path><path fill="#f1e05a" d="M-52.386,-60.463A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>JavaScript
-0.52</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(6.212955992003212,-39.51454387743115)"><tspan x="0" y="0em" font-weight="bold">Nunjucks</tspan><tspan x="0" y="1.1em">0.22</tspan></text><text transform="translate(19.243329310488008,-35.066996977900935)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan><tspan x="0" y="1.1em">0.27</tspan></text><text transform="translate(0.566555549352817,39.99598748386515)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan><tspan x="0" y="1.1em">3.57</tspan></text><text transform="translate(-14.094673450644917,-37.4344784966972)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">0.52</tspan></text></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#3d8137" d="M0.5,-79.998A80,80,0,0,1,26.421,-75.511L0,0Z"><title>Nunjucks
+0.23</title></path><path fill="#384d54" d="M27.363,-75.175A80,80,0,0,1,52.033,-60.766L0,0Z"><title>Dockerfile
+0.25</title></path><path fill="#89e051" d="M52.789,-60.111A80,80,0,1,1,-56.259,-56.876L0,0Z"><title>Shell
+3.33</title></path><path fill="#f1e05a" d="M-55.544,-57.575A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>JavaScript
+0.53</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(6.823073177125673,-39.41377516071746)"><tspan x="0" y="0em" font-weight="bold">Nunjucks</tspan><tspan x="0" y="1.1em">0.23</tspan></text><text transform="translate(20.173249608834332,-34.540411118278044)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan><tspan x="0" y="1.1em">0.25</tspan></text><text transform="translate(1.1860439513856593,39.982412380262666)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan><tspan x="0" y="1.1em">3.33</tspan></text><text transform="translate(-15.090838360912926,-37.044116908961385)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">0.53</tspan></text></g></svg>
               </div>
             
           </section>
