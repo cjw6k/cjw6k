@@ -1764,10 +1764,10 @@
             <h3>Language activity</h3>
             
               <div class="margin-bottom">
-                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#3d8137" d="M0.5,-79.998A80,80,0,0,1,33.259,-72.759L0,0Z"><title>Nunjucks
-0.23</title></path><path fill="#384d54" d="M34.166,-72.337A80,80,0,0,1,62.691,-49.698L0,0Z"><title>Dockerfile
-0.25</title></path><path fill="#89e051" d="M63.307,-48.91A80,80,0,1,1,-0.5,-79.998L0,0Z"><title>Shell
-2.92</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(8.631611772490364,-39.05758925239762)"><tspan x="0" y="0em" font-weight="bold">Nunjucks</tspan><tspan x="0" y="1.1em">0.23</tspan></text><text transform="translate(24.866801839643703,-31.331169245144565)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan><tspan x="0" y="1.1em">0.25</tspan></text><text transform="translate(-17.519971074282296,35.959012966936555)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan><tspan x="0" y="1.1em">2.92</tspan></text></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#3d8137" d="M0.5,-79.998A80,80,0,0,1,32.99,-72.881L0,0Z"><title>Nunjucks
+0.23</title></path><path fill="#384d54" d="M33.898,-72.463A80,80,0,0,1,62.306,-50.18L0,0Z"><title>Dockerfile
+0.25</title></path><path fill="#89e051" d="M62.928,-49.397A80,80,0,1,1,-0.5,-79.998L0,0Z"><title>Shell
+2.95</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(8.559431253237198,-39.073471008103525)"><tspan x="0" y="0em" font-weight="bold">Nunjucks</tspan><tspan x="0" y="1.1em">0.23</tspan></text><text transform="translate(24.687694736215775,-31.4724916174653)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan><tspan x="0" y="1.1em">0.25</tspan></text><text transform="translate(-17.38118240411648,36.026302866583904)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan><tspan x="0" y="1.1em">2.95</tspan></text></g></svg>
               </div>
             
           </section>
