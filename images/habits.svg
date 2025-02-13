@@ -1764,14 +1764,14 @@
             <h3>Language activity</h3>
             
               <div class="margin-bottom">
-                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#DA3434" d="M0.5,-79.998A80,80,0,0,1,15.95,-78.394L0,0Z"><title>CMake
-1.20</title></path><path fill="#f34b7d" d="M16.929,-78.188A80,80,0,1,1,-78.99,12.675L0,0Z"><title>C++
-26.78</title></path><path fill="#384d54" d="M-79.142,11.686A80,80,0,0,1,-52.793,-60.107L0,0Z"><title>Dockerfile
-6.15</title></path><path fill="#555555" d="M-52.038,-60.762A80,80,0,0,1,-48.51,-63.615L0,0Z"><title>C
-0.35</title></path><path fill="#427819" d="M-47.711,-64.216A80,80,0,0,1,-36.378,-71.251L0,0Z"><title>Makefile
-1.03</title></path><path fill="#99d594" d="M-35.484,-71.7A80,80,0,0,1,-6.161,-79.762L0,0Z"><title>M4
-2.36</title></path><path fill="#89e051" d="M-5.164,-79.833A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>Shell
-0.36</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(4.132137617586284,-39.785995509844014)"><tspan x="0" y="0em" font-weight="bold">CMake</tspan></text><text transform="translate(27.508605532794835,29.0392255688937)"><tspan x="0" y="0em" font-weight="bold">C++</tspan><tspan x="0" y="1.1em">26.78</tspan></text><text transform="translate(-37.55097017050375,-13.781314859400663)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan><tspan x="0" y="1.1em">6.15</tspan></text><text transform="translate(-25.147024184166717,-31.106706265384865)"><tspan x="0" y="0em" font-weight="bold">C</tspan></text><text transform="translate(-21.095584762382494,-33.98494230586739)"><tspan x="0" y="0em" font-weight="bold">Makefile</tspan></text><text transform="translate(-10.6047739172398,-38.5686241673751)"><tspan x="0" y="0em" font-weight="bold">M4</tspan><tspan x="0" y="1.1em">2.36</tspan></text><text transform="translate(-1.4165605029111443,-39.97490908484461)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan></text></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#DA3434" d="M0.5,-79.998A80,80,0,0,1,16.148,-78.353L0,0Z"><title>CMake
+1.33</title></path><path fill="#f34b7d" d="M17.126,-78.145A80,80,0,1,1,-79.073,12.145L0,0Z"><title>C++
+29.33</title></path><path fill="#384d54" d="M-79.218,11.156A80,80,0,0,1,-51.299,-61.387L0,0Z"><title>Dockerfile
+6.85</title></path><path fill="#555555" d="M-50.528,-62.024A80,80,0,0,1,-49.137,-63.131L0,0Z"><title>C
+0.15</title></path><path fill="#427819" d="M-48.344,-63.74A80,80,0,0,1,-36.84,-71.013L0,0Z"><title>Makefile
+1.15</title></path><path fill="#99d594" d="M-35.95,-71.468A80,80,0,0,1,-6.233,-79.757L0,0Z"><title>M4
+2.62</title></path><path fill="#89e051" d="M-5.236,-79.828A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>Shell
+0.40</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(4.18222351389818,-39.780761763442854)"><tspan x="0" y="0em" font-weight="bold">CMake</tspan></text><text transform="translate(27.37452553528772,29.165653630904288)"><tspan x="0" y="0em" font-weight="bold">C++</tspan><tspan x="0" y="1.1em">29.33</tspan></text><text transform="translate(-37.33073093518706,-14.367203201899363)"><tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan><tspan x="0" y="1.1em">6.85</tspan></text><text transform="translate(-24.917797524766815,-31.290627454794265)"><tspan x="0" y="0em" font-weight="bold">C</tspan></text><text transform="translate(-21.373589261961573,-33.810792390314674)"><tspan x="0" y="0em" font-weight="bold">Makefile</tspan></text><text transform="translate(-10.747419456774608,-38.529118534170266)"><tspan x="0" y="0em" font-weight="bold">M4</tspan><tspan x="0" y="1.1em">2.62</tspan></text><text transform="translate(-1.4346189221994967,-39.97426507827339)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan></text></g></svg>
               </div>
             
           </section>
