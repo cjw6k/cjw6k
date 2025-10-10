@@ -22,7 +22,7 @@
   </a>
 </p>
 <hr>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/cjw6k/">
     <img align="top" src="./images/habits.svg" width="420px">
   </a>
@@ -30,7 +30,7 @@
     <img align="top" src="./images/achievements-followers.svg" width="420px">
   </a>
 </p>
-<hr>
+<hr> -->
 <p align="center">
   <a href="https://github.com/search?q=author:cjw6k">
     <img align="top" src="./images/recent.svg" width="420px">
