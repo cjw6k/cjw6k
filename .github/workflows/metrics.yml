@@ -12,11 +12,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙ update metrics [skip ci]"
+          committer_message: "⚙  update metrics [skip ci]"
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           commits_authoring: ${{ secrets.USER_IDENTITIES }}
           filename: images/cjw6k.svg
@@ -33,11 +33,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙ update metrics [skip ci]"
+          committer_message: "⚙  update metrics [skip ci]"
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           commits_authoring: ${{ secrets.USER_IDENTITIES }}
           filename: images/calendar-languages.svg
@@ -60,11 +60,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙ update metrics [skip ci]"
+          committer_message: "⚙  update metrics [skip ci]"
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           commits_authoring: ${{ secrets.USER_IDENTITIES }}
           filename: images/followup.svg
@@ -78,27 +78,25 @@ jobs:
           experimental_features: --optimize-svg
           output_condition: data-changed
 
-  achievements-followers:
+  followers:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙ update metrics [skip ci]"
+          committer_message: "⚙  update metrics [skip ci]"
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           commits_authoring: ${{ secrets.USER_IDENTITIES }}
           filename: images/achievements-followers.svg
           user: cjw6k
           template: classic
           base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+          plugin_achievements: no
           plugin_people: yes
           plugin_people_types: followers
-          config_order: achievements, followers
           optimize: svg
           experimental_features: --optimize-svg
           output_condition: data-changed
@@ -108,11 +106,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙ update metrics [skip ci]"
+          committer_message: "⚙  update metrics [skip ci]"
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           commits_authoring: ${{ secrets.USER_IDENTITIES }}
           filename: images/repositories.svg
@@ -132,11 +130,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙ update metrics [skip ci]"
+          committer_message: "⚙  update metrics [skip ci]"
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           commits_authoring: ${{ secrets.USER_IDENTITIES }}
           filename: images/activity-community.svg
@@ -153,11 +151,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙ update metrics [skip ci]"
+          committer_message: "⚙  update metrics [skip ci]"
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           commits_authoring: ${{ secrets.USER_IDENTITIES }}
           filename: images/recent.svg
@@ -176,11 +174,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙ update metrics [skip ci]"
+          committer_message: "⚙  update metrics [skip ci]"
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           commits_authoring: ${{ secrets.USER_IDENTITIES }}
           filename: images/habits.svg
@@ -201,11 +199,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙ update metrics [skip ci]"
+          committer_message: "⚙  update metrics [skip ci]"
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           commits_authoring: ${{ secrets.USER_IDENTITIES }}
           filename: images/stars.svg
