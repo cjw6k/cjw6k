@@ -27,7 +27,7 @@
     <img align="top" src="./images/recent.svg" width="420px">
   </a>
   <a href="https://github.com/cjw6k?tab=stars">
-    <img align="top" src="./images/stars.svg" width="420px">
+    <img align="bottom" src="./images/stars.svg" width="420px">
   </a>
   <a href="https://github.com/cjw6k?tab=followers">
     <img align="top" src="./images/followers.svg" width="420px">
