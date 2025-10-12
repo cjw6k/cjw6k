@@ -17,7 +17,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙ update metrics [skip ci]"
+          committer_message: "⚙  update metrics [skip ci]"
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           commits_authoring: ${{ secrets.USER_IDENTITIES }}
           filename: images/cjw6k.svg
@@ -38,7 +38,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙ update metrics [skip ci]"
+          committer_message: "⚙  update metrics [skip ci]"
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           commits_authoring: ${{ secrets.USER_IDENTITIES }}
           filename: images/calendar-languages.svg
@@ -65,7 +65,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙ update metrics [skip ci]"
+          committer_message: "⚙  update metrics [skip ci]"
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           commits_authoring: ${{ secrets.USER_IDENTITIES }}
           filename: images/followup.svg
@@ -88,7 +88,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙ update metrics [skip ci]"
+          committer_message: "⚙  update metrics [skip ci]"
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           commits_authoring: ${{ secrets.USER_IDENTITIES }}
           filename: images/achievements-followers.svg
@@ -113,7 +113,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙ update metrics [skip ci]"
+          committer_message: "⚙  update metrics [skip ci]"
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           commits_authoring: ${{ secrets.USER_IDENTITIES }}
           filename: images/repositories.svg
@@ -137,7 +137,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙ update metrics [skip ci]"
+          committer_message: "⚙  update metrics [skip ci]"
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           commits_authoring: ${{ secrets.USER_IDENTITIES }}
           filename: images/activity-community.svg
@@ -158,7 +158,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙ update metrics [skip ci]"
+          committer_message: "⚙  update metrics [skip ci]"
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           commits_authoring: ${{ secrets.USER_IDENTITIES }}
           filename: images/recent.svg
@@ -181,7 +181,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙ update metrics [skip ci]"
+          committer_message: "⚙  update metrics [skip ci]"
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           commits_authoring: ${{ secrets.USER_IDENTITIES }}
           filename: images/habits.svg
@@ -206,7 +206,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙ update metrics [skip ci]"
+          committer_message: "⚙  update metrics [skip ci]"
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           commits_authoring: ${{ secrets.USER_IDENTITIES }}
           filename: images/stars.svg
