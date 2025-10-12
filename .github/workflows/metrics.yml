@@ -192,7 +192,9 @@ jobs:
           plugin_habits_from: 1000
           plugin_habits_days: 30
           plugin_habits_charts: yes
-          plugin_habits_charts_type: chartist
+          plugin_habits_charts_type: graph
+          plugin_habits_languages_threshold: "1.25%"
+          plugin_habits_trim: yes
           optimize: svg
           experimental_features: --optimize-svg
           output_condition: data-changed
