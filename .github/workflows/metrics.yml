@@ -98,8 +98,8 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_people: yes
-          plugin_people_types: followers
-          config_order: achievements, followers
+          plugin_people_types: followers, following
+          config_order: achievements, followers, following
           optimize: svg
           experimental_features: --optimize-svg
           output_condition: data-changed
