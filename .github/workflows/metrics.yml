@@ -1,48 +1,72 @@
 name: Metrics
+
 on:
   schedule:
     - cron: '17 * * * *'
+
   workflow_dispatch:
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
+concurrency:
+  group: metrics
+  cancel-in-progress: true
+
+env:
+  METRICS_USER: cjw6k
+  METRICS_TIMEZONE: ${{ secrets.USER_TIMEZONE }}
+  METRICS_AUTHOR: ${{ secrets.USER_IDENTITIES }}
+  METRICS_PATH: images
+
 jobs:
   header:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
+      - name: Cache metrics data
+        uses: actions/cache@v4
+        with:
+          path: .metrics
+          key: metrics-header
+
       - uses: cjw6k/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙  update metrics [skip ci]"
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
-          commits_authoring: ${{ secrets.USER_IDENTITIES }}
-          filename: images/cjw6k.svg
-          user: cjw6k
+          committer_message: "⚙️ update metrics [skip ci]"
+          use_prebuilt_image: yes
+          config_timezone: ${{ env.METRICS_TIMEZONE }}
+          commits_authoring: ${{ env.METRICS_AUTHOR }}
+          filename: ${{ env.METRICS_PATH }}/cjw6k.svg
+          user: ${{ env.METRICS_USER }}
           template: classic
           base: header
           base_indepth: yes
           optimize: svg
-          experimental_features: --optimize-svg
           output_condition: data-changed
 
   calendar-languages:
+    needs: header
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
+      - uses: actions/cache@v4
+        with:
+          path: .metrics
+          key: metrics-calendar-languages
+
       - uses: cjw6k/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙  update metrics [skip ci]"
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
-          commits_authoring: ${{ secrets.USER_IDENTITIES }}
-          filename: images/calendar-languages.svg
-          user: cjw6k
+          committer_message: "⚙️ update metrics [skip ci]"
+          use_prebuilt_image: yes
+          config_timezone: ${{ env.METRICS_TIMEZONE }}
+          commits_authoring: ${{ env.METRICS_AUTHOR }}
+          filename: ${{ env.METRICS_PATH }}/calendar-languages.svg
+          user: ${{ env.METRICS_USER }}
           template: classic
           base: ""
           plugin_isocalendar: yes
@@ -53,46 +77,54 @@ jobs:
           plugin_languages_other: yes
           config_order: isocalendar, languages
           optimize: svg
-          experimental_features: --optimize-svg
           output_condition: data-changed
 
   followup:
+    needs: calendar-languages
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
+      - uses: actions/cache@v4
+        with:
+          path: .metrics
+          key: metrics-followup
+
       - uses: cjw6k/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙  update metrics [skip ci]"
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
-          commits_authoring: ${{ secrets.USER_IDENTITIES }}
-          filename: images/followup.svg
-          user: cjw6k
+          committer_message: "⚙️ update metrics [skip ci]"
+          use_prebuilt_image: yes
+          config_timezone: ${{ env.METRICS_TIMEZONE }}
+          commits_authoring: ${{ env.METRICS_AUTHOR }}
+          filename: ${{ env.METRICS_PATH }}/followup.svg
+          user: ${{ env.METRICS_USER }}
           template: classic
           base: ""
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           plugin_followup_indepth: yes
           optimize: svg
-          experimental_features: --optimize-svg
           output_condition: data-changed
 
   achievements-followers:
+    needs: followup
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
+      - uses: actions/cache@v4
+        with:
+          path: .metrics
+          key: metrics-achievements-followers
+
       - uses: cjw6k/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙  update metrics [skip ci]"
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
-          commits_authoring: ${{ secrets.USER_IDENTITIES }}
-          filename: images/achievements-followers.svg
-          user: cjw6k
+          committer_message: "⚙️ update metrics [skip ci]"
+          use_prebuilt_image: yes
+          config_timezone: ${{ env.METRICS_TIMEZONE }}
+          commits_authoring: ${{ env.METRICS_AUTHOR }}
+          filename: ${{ env.METRICS_PATH }}/achievements-followers.svg
+          user: ${{ env.METRICS_USER }}
           template: classic
           base: ""
           plugin_achievements: yes
@@ -101,23 +133,27 @@ jobs:
           plugin_people_types: followers, following
           config_order: achievements, followers, following
           optimize: svg
-          experimental_features: --optimize-svg
           output_condition: data-changed
 
   repositories:
+    needs: achievements-followers
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
+      - uses: actions/cache@v4
+        with:
+          path: .metrics
+          key: metrics-repositories
+
       - uses: cjw6k/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙  update metrics [skip ci]"
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
-          commits_authoring: ${{ secrets.USER_IDENTITIES }}
-          filename: images/repositories.svg
-          user: cjw6k
+          committer_message: "⚙️ update metrics [skip ci]"
+          use_prebuilt_image: yes
+          config_timezone: ${{ env.METRICS_TIMEZONE }}
+          commits_authoring: ${{ env.METRICS_AUTHOR }}
+          filename: ${{ env.METRICS_PATH }}/repositories.svg
+          user: ${{ env.METRICS_USER }}
           template: classic
           base: repositories
           base_indepth: yes
@@ -125,67 +161,79 @@ jobs:
           plugin_lines_sections: base, repositories
           plugin_lines_repositories_limit: 5
           optimize: svg
-          experimental_features: --optimize-svg
           output_condition: data-changed
 
   activity-community:
+    needs: repositories
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
+      - uses: actions/cache@v4
+        with:
+          path: .metrics
+          key: metrics-activity-community
+
       - uses: cjw6k/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙  update metrics [skip ci]"
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
-          commits_authoring: ${{ secrets.USER_IDENTITIES }}
-          filename: images/activity-community.svg
-          user: cjw6k
+          committer_message: "⚙️ update metrics [skip ci]"
+          use_prebuilt_image: yes
+          config_timezone: ${{ env.METRICS_TIMEZONE }}
+          commits_authoring: ${{ env.METRICS_AUTHOR }}
+          filename: ${{ env.METRICS_PATH }}/activity-community.svg
+          user: ${{ env.METRICS_USER }}
           template: classic
           base: activity, community
           base_indepth: yes
           optimize: svg
-          experimental_features: --optimize-svg
           output_condition: data-changed
 
   recent:
+    needs: activity-community
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
+      - uses: actions/cache@v4
+        with:
+          path: .metrics
+          key: metrics-recent
+
       - uses: cjw6k/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙  update metrics [skip ci]"
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
-          commits_authoring: ${{ secrets.USER_IDENTITIES }}
-          filename: images/recent.svg
-          user: cjw6k
+          committer_message: "⚙️ update metrics [skip ci]"
+          use_prebuilt_image: yes
+          config_timezone: ${{ env.METRICS_TIMEZONE }}
+          commits_authoring: ${{ env.METRICS_AUTHOR }}
+          filename: ${{ env.METRICS_PATH }}/recent.svg
+          user: ${{ env.METRICS_USER }}
           template: classic
           base: ""
           plugin_activity: yes
           plugin_activity_limit: 15
           plugin_activity_filter: member, public, fork, wiki, comment, review, release, ref/create, ref/delete, pr, issue, push
           optimize: svg
-          experimental_features: --optimize-svg
           output_condition: data-changed
 
   habits:
+    needs: recent
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
+      - uses: actions/cache@v4
+        with:
+          path: .metrics
+          key: metrics-habits
+
       - uses: cjw6k/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙  update metrics [skip ci]"
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
-          commits_authoring: ${{ secrets.USER_IDENTITIES }}
-          filename: images/habits.svg
-          user: cjw6k
+          committer_message: "⚙️ update metrics [skip ci]"
+          use_prebuilt_image: yes
+          config_timezone: ${{ env.METRICS_TIMEZONE }}
+          commits_authoring: ${{ env.METRICS_AUTHOR }}
+          filename: ${{ env.METRICS_PATH }}/habits.svg
+          user: ${{ env.METRICS_USER }}
           template: classic
           base: ""
           plugin_habits: yes
@@ -196,27 +244,30 @@ jobs:
           plugin_habits_languages_threshold: "1.25%"
           plugin_habits_trim: yes
           optimize: svg
-          experimental_features: --optimize-svg
           output_condition: data-changed
 
   stars:
+    needs: habits
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
+      - uses: actions/cache@v4
+        with:
+          path: .metrics
+          key: metrics-stars
+
       - uses: cjw6k/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "⚙  update metrics [skip ci]"
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
-          commits_authoring: ${{ secrets.USER_IDENTITIES }}
-          filename: images/stars.svg
-          user: cjw6k
+          committer_message: "⚙️ update metrics [skip ci]"
+          use_prebuilt_image: yes
+          config_timezone: ${{ env.METRICS_TIMEZONE }}
+          commits_authoring: ${{ env.METRICS_AUTHOR }}
+          filename: ${{ env.METRICS_PATH }}/stars.svg
+          user: ${{ env.METRICS_USER }}
           template: classic
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 7
           optimize: svg
-          experimental_features: --optimize-svg
           output_condition: data-changed
