@@ -42,7 +42,6 @@ jobs:
           output_condition: data-changed
 
   calendar-languages:
-    needs: header
     runs-on: ubuntu-latest
     steps:
       - uses: cjw6k/metrics@master
@@ -68,7 +67,6 @@ jobs:
           output_condition: data-changed
 
   followup:
-    needs: calendar-languages
     runs-on: ubuntu-latest
     steps:
       - uses: cjw6k/metrics@master
@@ -90,7 +88,6 @@ jobs:
           output_condition: data-changed
 
   achievements-followers:
-    needs: followup
     runs-on: ubuntu-latest
     steps:
       - uses: cjw6k/metrics@master
@@ -114,7 +111,6 @@ jobs:
           output_condition: data-changed
 
   repositories:
-    needs: achievements-followers
     runs-on: ubuntu-latest
     steps:
       - uses: cjw6k/metrics@master
@@ -137,7 +133,6 @@ jobs:
           output_condition: data-changed
 
   activity-community:
-    needs: repositories
     runs-on: ubuntu-latest
     steps:
       - uses: cjw6k/metrics@master
@@ -157,7 +152,6 @@ jobs:
           output_condition: data-changed
 
   recent:
-    needs: activity-community
     runs-on: ubuntu-latest
     steps:
       - uses: cjw6k/metrics@master
@@ -179,7 +173,6 @@ jobs:
           output_condition: data-changed
 
   habits:
-    needs: recent
     runs-on: ubuntu-latest
     steps:
       - uses: cjw6k/metrics@master
@@ -205,7 +198,6 @@ jobs:
           output_condition: data-changed
 
   stars:
-    needs: habits
     runs-on: ubuntu-latest
     steps:
       - uses: cjw6k/metrics@master
