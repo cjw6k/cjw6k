@@ -39,7 +39,7 @@ jobs:
           committer_message: "⚙️ update metrics [skip ci]"
           use_prebuilt_image: yes
           config_timezone: ${{ env.METRICS_TIMEZONE }}
-          commits_authoring: ${{ env.METRICS_AUTHOR }}
+          commits_authoring: ${{ github.actor }}
           filename: ${{ env.METRICS_PATH }}/cjw6k.svg
           user: ${{ env.METRICS_USER }}
           template: classic
@@ -64,7 +64,7 @@ jobs:
           committer_message: "⚙️ update metrics [skip ci]"
           use_prebuilt_image: yes
           config_timezone: ${{ env.METRICS_TIMEZONE }}
-          commits_authoring: ${{ env.METRICS_AUTHOR }}
+          commits_authoring: ${{ github.actor }}
           filename: ${{ env.METRICS_PATH }}/calendar-languages.svg
           user: ${{ env.METRICS_USER }}
           template: classic
@@ -95,7 +95,7 @@ jobs:
           committer_message: "⚙️ update metrics [skip ci]"
           use_prebuilt_image: yes
           config_timezone: ${{ env.METRICS_TIMEZONE }}
-          commits_authoring: ${{ env.METRICS_AUTHOR }}
+          commits_authoring: ${{ github.actor }}
           filename: ${{ env.METRICS_PATH }}/followup.svg
           user: ${{ env.METRICS_USER }}
           template: classic
@@ -122,7 +122,7 @@ jobs:
           committer_message: "⚙️ update metrics [skip ci]"
           use_prebuilt_image: yes
           config_timezone: ${{ env.METRICS_TIMEZONE }}
-          commits_authoring: ${{ env.METRICS_AUTHOR }}
+          commits_authoring: ${{ github.actor }}
           filename: ${{ env.METRICS_PATH }}/achievements-followers.svg
           user: ${{ env.METRICS_USER }}
           template: classic
@@ -151,7 +151,7 @@ jobs:
           committer_message: "⚙️ update metrics [skip ci]"
           use_prebuilt_image: yes
           config_timezone: ${{ env.METRICS_TIMEZONE }}
-          commits_authoring: ${{ env.METRICS_AUTHOR }}
+          commits_authoring: ${{ github.actor }}
           filename: ${{ env.METRICS_PATH }}/repositories.svg
           user: ${{ env.METRICS_USER }}
           template: classic
@@ -179,7 +179,7 @@ jobs:
           committer_message: "⚙️ update metrics [skip ci]"
           use_prebuilt_image: yes
           config_timezone: ${{ env.METRICS_TIMEZONE }}
-          commits_authoring: ${{ env.METRICS_AUTHOR }}
+          commits_authoring: ${{ github.actor }}
           filename: ${{ env.METRICS_PATH }}/activity-community.svg
           user: ${{ env.METRICS_USER }}
           template: classic
@@ -204,7 +204,7 @@ jobs:
           committer_message: "⚙️ update metrics [skip ci]"
           use_prebuilt_image: yes
           config_timezone: ${{ env.METRICS_TIMEZONE }}
-          commits_authoring: ${{ env.METRICS_AUTHOR }}
+          commits_authoring: ${{ github.actor }}
           filename: ${{ env.METRICS_PATH }}/recent.svg
           user: ${{ env.METRICS_USER }}
           template: classic
@@ -231,7 +231,7 @@ jobs:
           committer_message: "⚙️ update metrics [skip ci]"
           use_prebuilt_image: yes
           config_timezone: ${{ env.METRICS_TIMEZONE }}
-          commits_authoring: ${{ env.METRICS_AUTHOR }}
+          commits_authoring: ${{ github.actor }}
           filename: ${{ env.METRICS_PATH }}/habits.svg
           user: ${{ env.METRICS_USER }}
           template: classic
@@ -262,7 +262,7 @@ jobs:
           committer_message: "⚙️ update metrics [skip ci]"
           use_prebuilt_image: yes
           config_timezone: ${{ env.METRICS_TIMEZONE }}
-          commits_authoring: ${{ env.METRICS_AUTHOR }}
+          commits_authoring: ${{ github.actor }}
           filename: ${{ env.METRICS_PATH }}/stars.svg
           user: ${{ env.METRICS_USER }}
           template: classic
