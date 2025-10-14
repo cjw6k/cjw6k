@@ -19,19 +19,12 @@ concurrency:
 env:
   METRICS_USER: cjw6k
   METRICS_TIMEZONE: ${{ secrets.USER_TIMEZONE }}
-  METRICS_AUTHOR: ${{ secrets.USER_IDENTITIES }}
   METRICS_PATH: images
 
 jobs:
   header:
     runs-on: ubuntu-latest
     steps:
-      - name: Cache metrics data
-        uses: actions/cache@v4
-        with:
-          path: .metrics
-          key: metrics-header
-
       - uses: cjw6k/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -52,11 +45,6 @@ jobs:
     needs: header
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/cache@v4
-        with:
-          path: .metrics
-          key: metrics-calendar-languages
-
       - uses: cjw6k/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -83,11 +71,6 @@ jobs:
     needs: calendar-languages
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/cache@v4
-        with:
-          path: .metrics
-          key: metrics-followup
-
       - uses: cjw6k/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -110,11 +93,6 @@ jobs:
     needs: followup
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/cache@v4
-        with:
-          path: .metrics
-          key: metrics-achievements-followers
-
       - uses: cjw6k/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -139,11 +117,6 @@ jobs:
     needs: achievements-followers
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/cache@v4
-        with:
-          path: .metrics
-          key: metrics-repositories
-
       - uses: cjw6k/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -167,11 +140,6 @@ jobs:
     needs: repositories
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/cache@v4
-        with:
-          path: .metrics
-          key: metrics-activity-community
-
       - uses: cjw6k/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -192,11 +160,6 @@ jobs:
     needs: activity-community
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/cache@v4
-        with:
-          path: .metrics
-          key: metrics-recent
-
       - uses: cjw6k/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -219,11 +182,6 @@ jobs:
     needs: recent
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/cache@v4
-        with:
-          path: .metrics
-          key: metrics-habits
-
       - uses: cjw6k/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -250,11 +208,6 @@ jobs:
     needs: habits
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/cache@v4
-        with:
-          path: .metrics
-          key: metrics-stars
-
       - uses: cjw6k/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
